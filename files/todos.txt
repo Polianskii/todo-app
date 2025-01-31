@@ -1,7 +1,6 @@
-add a new player
-add a new member
-Buy a camera
-Make soup
+Add a new memberMake soup
 Clean the code
 New order
 Master Pyton!
+My newest todo
+And lastly
